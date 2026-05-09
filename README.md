@@ -45,7 +45,7 @@ A interface de usuário é apresentada através de um Dashboard interativo, comp
 ---
 
 ## 🎥 Demonstração do Projeto
-Link: 
+Link: https://youtu.be/WATAF_ItIKY?si=9gtPnkY3qhUV-p2o
 
 ---
 
